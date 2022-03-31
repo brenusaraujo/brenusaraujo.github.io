@@ -4,6 +4,7 @@ body{
 
 }
 p {
+  padding: 10px;
   text-align: left;
   color: #230da1;
   background-color: rgb(188, 216, 231);
@@ -27,7 +28,7 @@ h1 {
 ul{
   color: #230da1;
   background-color: rgb(188, 216, 231);
-
+  border-radius: 10px;
 }
 .center {
   display: block;
@@ -39,6 +40,9 @@ a {
   color: #230da1;
   background-color: rgb(188, 216, 231);
   border-radius: 10px;
+}
+li{
+  
 }
 /*.borderexample {
   border-style:solid;
