@@ -58,8 +58,11 @@ a {
   padding: 30px;
 }
 
-
 .header-content p {
   width: 80%;
   margin-top: 60px;
+}
+
+.skills-wrapped{
+  width: 30%;
 }
