@@ -75,4 +75,6 @@ a {
 
 .sac{
   width: 30%;
+  display: inline-block;
+  padding: 10px;
 }
