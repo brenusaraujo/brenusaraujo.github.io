@@ -44,5 +44,7 @@ a {
 }
 
 .header {
+  background-image: url(./images/breno.png);
+  background-size: cover;
   border: 2px solid red;
 }
