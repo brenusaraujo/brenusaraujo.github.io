@@ -70,11 +70,11 @@ a {
 }
 
 .skills-wrapped {
-
+width: 90%;
+margin: auto;
 }
 
 .sac{
   width: 30%;
   display: inline-block;
-  padding: 10px;
 }
