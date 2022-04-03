@@ -32,7 +32,7 @@ ul{
   border-radius: 10px;
 }
 .center {
-  display: block;
+  
   margin-left: auto;
   margin-right: auto;
 }
@@ -42,11 +42,7 @@ a {
   background-color: rgb(188, 216, 231);
   border-radius: 10px;
 }
-  
-.header{
 
-}
-
-.header.title{
- font-family: Poppins;
+.header {
+  border: 2px solid red;
 }
