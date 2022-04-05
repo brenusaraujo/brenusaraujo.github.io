@@ -55,7 +55,7 @@ a {
 .header {
   background-image: url(./images/breno.png);
   background-size: cover;
-  background-position: 50% 20%;
+  background-position: 50% 50%;
   padding: 0px 0px 300px;
 }
 
@@ -70,11 +70,14 @@ a {
 }
 
 .skills-wrapped {
-width: 90%;
+width: 95%;
 margin: auto;
+background-color: #8cc7b5;
+background-size: auto;
 }
 
 .sac{
   width: 30%;
   display: inline-block;
+  padding: 8px;
 }
